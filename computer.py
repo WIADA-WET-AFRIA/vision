@@ -8,7 +8,7 @@ def main():
     user = st.text_input("Entrer votre nom")
     if st.button("Dis bonjour"):
         if user:
-            st.write(f'Bonjour{user}')
+            st.write(f'Bonjour {user}')
         else:
             st.write('Bonjour à tous')
 if __name__ == "__main__":
