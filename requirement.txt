@@ -1,4 +1,0 @@
-pip>=24.0
-opencv_python_headless
-streamlit== 1.32.2
-ultralytics
